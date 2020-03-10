@@ -12,10 +12,10 @@
 		{% for tag in page.tags %}
 			<a class="label label-default" href="/tags/#{{ tag | slugify }}">{{ tag }}</a>
 		{% endfor %}
-    </p>
+	</p>
 	{%if page.github %}
 	<p>
-    	<a href="{{ page.github }}" class="btn btn-default">
+		<a href="{{ page.github }}" class="btn btn-default">
 		    <i class="fa fa-github fa-2x"></i>  {{ page.github }}
 			</a>
 	</p>
@@ -23,16 +23,16 @@
 	<hr>
 	<h1>Abstract</h1>
 	{% endif %}
-
+	
 	{{ content }}
 
 
 	{% if page.id %}
 	<p>Originally published {{ page.published | date: '%B %d, %Y' }}
-    <br> Latest update {{ page.date | date: '%B %d, %Y' }}</p>
-
-    <p><strong>Related posts :</strong></p>
-        <ul>
+	<br> Latest update {{ page.date | date: '%B %d, %Y' }}</p>
+	
+	<p><strong>Related posts :</strong></p>
+	    <ul>
 	    {% for allpost in site.posts %}
 			  {% for tag in page.tags %}
 			  {% if allpost.tags contains tag and allpost.id != page.id %}
@@ -47,7 +47,7 @@
 		{% endfor %}
 		</ul>
 	{% endif %}
-
+	
 	{% include disqus.html %}
 	</div>
 	{% include footer.html %}
