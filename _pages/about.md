@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-# Good day readers and welcome to my blog !
+## Biography
 
 <div align="left"><img src="https://github.com/zsw6666/zsw6666.github.io/tree/master/_pages/img/sw.jpg" style="zoom:25%;" </div>
 
