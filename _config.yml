@@ -17,7 +17,7 @@ title: SW's Blog
 name: SW's Blog
 description: 
   
-baseurl: "https://github.com/zsw6666/zsw6666.github.io" # the subpath of your site, e.g. /blog
+baseurl: "https://zsw6666.github.io/" # the subpath of your site, e.g. /blog
 github_username: zsw6666 
 
 # jekyll-paginate configuration
