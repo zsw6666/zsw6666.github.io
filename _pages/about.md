@@ -6,7 +6,7 @@ permalink: /about/
 
 # Good day readers and welcome to my blog !
 
-<div align="left"><img src="/Users/shiwuzhang/WS/blog/SW_blog/zsw6666.github.io/_pages/img/sw.jpg" style="zoom:25%;" </div>
+<div align="left"><img src="https://github.com/zsw6666/zsw6666.github.io/tree/master/_pages/img/sw.jpg" style="zoom:25%;" </div>
 
 
 
@@ -30,13 +30,13 @@ Here is my email address: **zsw18@mails.tsinghua.edu.cn**
 
 You can also follow me on the social media:
 
-<a href="https://github.com/zsw6666"><img src="./img/github_logo.jpeg" alt="github" style="zoom:5%;"></a>
+<a href="https://github.com/zsw6666"><img src="https://github.com/zsw6666/zsw6666.github.io/tree/master/_pages/img/github_logo.jpeg" alt="github" style="zoom:5%;"></a>
 
-<a href="https://www.linkedin.com/in/shiwu-zhang-139416184/"><img src="./img/linkedin_logo.jpeg" alt="Linkedin" style="zoom:10%;"></a>
+<a href="https://www.linkedin.com/in/shiwu-zhang-139416184/"><img src="https://github.com/zsw6666/zsw6666.github.io/tree/master/_pages/img/linkedin_logo.jpeg" alt="Linkedin" style="zoom:10%;"></a>
 
-<a href="https://twitter.com/zhang_sw"><img src="./img/twitter_logo.jpeg" alt="Linkedin" style="zoom:6%;"></a>
+<a href="https://twitter.com/zhang_sw"><img src="https://github.com/zsw6666/zsw6666.github.io/tree/master/_pages/img/twitter_logo.jpeg" alt="Linkedin" style="zoom:6%;"></a>
 
-<a href="https://weibo.com/6388093891/profile?topnav=1&wvr=6&is_all=1"><img src="./img/sina_logo.jpeg" alt="Linkedin" style="zoom:6%;"></a>
+<a href="https://weibo.com/6388093891/profile?topnav=1&wvr=6&is_all=1"><img src=".https://github.com/zsw6666/zsw6666.github.io/tree/master/_pages/img/sina_logo.jpeg" alt="Linkedin" style="zoom:6%;"></a>
 
 
 
