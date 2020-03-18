@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img src="https://github.com/zsw6666/zsw6666.github.io/raw/master/_pages/img/sw.jpg" alt="SW" align='left' divstyle=float style="zoom:25%;" />
+<img src="https://github.com/zsw6666/zsw6666.github.io/raw/master/_pages/img/sw.jpg" alt="SW" align='left' divstyle="float" style="zoom:25%;" />
 
 
 
