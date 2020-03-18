@@ -24,7 +24,7 @@ github_username: zsw6666
 paginate: 10
 
 # Build settings
-markdown: markdown preview#kramdown
+markdown: Rouge#kramdown
 #theme: minima
 plugins:
   - jekyll-feed
