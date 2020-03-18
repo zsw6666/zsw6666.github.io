@@ -6,6 +6,8 @@ permalink: /about/
 
 #### Biography
 
+<img src="https://github.com/zsw6666/zsw6666.github.io/raw/master/_pages/img/sw.jpg" alt="SW" align='left' style="zoom:25%;" />
+
 My name is Shiwu Zhang, A graduated student majoring in astronomy. I graduated from GuangXi University and I'm currently working in Department of Astronomy Tsinghua University, Beijing. 
 
 My research is to study the coevolution of galaxies with its gas evironment, I use Keck/KCWI instrument to observe the famous protocluster discovered by [Cai et al 2017a](https://arxiv.org/abs/1609.02913). As a result, we find an extremely powerful outflow with strong HeII and CIV extended emissions up to 100 kpc. This outflow is likely to be powered by AGN mode feedback and it should be the first time to observe this sort of feedback influencing halo scale environment at high redshift. Besides, I'm also curious about cosmology and large scale structure of the universe. 
@@ -26,7 +28,7 @@ Here is my email address: **zsw18@mails.tsinghua.edu.cn**
 
 You can also follow me on the social media:
 
-[<img src="./img/github_logo.jpeg" alt="github" style="zoom:5%;" />](https://github.com/zsw6666) [<img src="./img/twitter_logo.jpeg" alt="twitter" style="zoom:6%;" />](https://twitter.com/zhang_sw) [<img src="./img/sina_logo.jpeg" alt="sina" style="zoom:7%;" />](https://weibo.com/6388093891/profile?topnav=1&wvr=6) [<img src="/Users/shiwuzhang/WS/blog/SW_blog/zsw6666.github.io/_pages/img/linkedin_logo.jpeg" alt="linkedin" style="zoom:9%;" />](https://www.linkedin.com/in/shiwu-zhang-139416184/)
+[<img src="https://github.com/zsw6666/zsw6666.github.io/raw/master/_pages/img/github_logo.jpeg" alt="github" style="zoom:5%;" />](https://github.com/zsw6666) [<img src="https://github.com/zsw6666/zsw6666.github.io/raw/master/_pages/img/twitter_logo.jpeg" alt="twitter" style="zoom:6%;" />](https://twitter.com/zhang_sw) [<img src="https://github.com/zsw6666/zsw6666.github.io/raw/master/_pages/img/sina_logo.jpeg" alt="sina" style="zoom:7%;" />](https://weibo.com/6388093891/profile?topnav=1&wvr=6) [<img src="https://github.com/zsw6666/zsw6666.github.io/raw/master/_pages/img/linkedin_logo.jpeg" alt="linkedin" style="zoom:9%;" />](https://www.linkedin.com/in/shiwu-zhang-139416184/)
 
 
 
