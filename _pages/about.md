@@ -4,8 +4,6 @@ title: about
 permalink: /about/
 ---
 
-#### Biography
-
 <img src="https://github.com/zsw6666/zsw6666.github.io/raw/master/_pages/img/sw.jpg" alt="SW" align='left' style="zoom:25%;" />
 
 My name is Shiwu Zhang, A graduated student majoring in astronomy. I graduated from GuangXi University and I'm currently working in Department of Astronomy Tsinghua University, Beijing. 
