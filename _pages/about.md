@@ -6,6 +6,10 @@ permalink: /about/
 
 <img src="https://github.com/zsw6666/zsw6666.github.io/raw/master/_pages/img/sw.jpg" alt="SW" align='left' style="zoom:25%;" />
 
+
+
+$$\\$$
+
 My name is Shiwu Zhang, A graduated student majoring in astronomy. I graduated from GuangXi University and I'm currently working in Department of Astronomy Tsinghua University, Beijing. 
 
 My research is to study the coevolution of galaxies with its gas evironment, I use Keck/KCWI instrument to observe the famous protocluster discovered by [Cai et al 2017a](https://arxiv.org/abs/1609.02913). As a result, we find an extremely powerful outflow with strong HeII and CIV extended emissions up to 100 kpc. This outflow is likely to be powered by AGN mode feedback and it should be the first time to observe this sort of feedback influencing halo scale environment at high redshift. Besides, I'm also curious about cosmology and large scale structure of the universe. 
