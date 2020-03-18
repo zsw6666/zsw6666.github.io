@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# $\rm \color{purple}{Research}$
-
 $$\\$$
 
 #### $$\rm \color{darkred}{Discovery \ of \ an \ Extreme \ AGN-mode \ Feedback \ on \ 100 \ kpc \ Scale \\ at \ z=2.3 \ in \ an \ Emornous \ Lyα \ Nebula}$$
